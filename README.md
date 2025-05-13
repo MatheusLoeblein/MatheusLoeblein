@@ -22,8 +22,8 @@ Sou um **desenvolvedor full-stack** apaixonado por criar soluções robustas e e
 - ![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-2E8B57?style=flat) Conquistei o *Pull Shark* com 2 PRs mesclados!
 
 ## 📊 Minhas Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusLoeblein&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLoeblein&layout=compact&theme=dracula)
 
 ## 📬 Contato
 - 📧 E-mail: [matheus.eai@gmail.com]
