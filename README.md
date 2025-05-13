@@ -26,6 +26,6 @@ Sou um **desenvolvedor full-stack** apaixonado por criar soluções robustas e e
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLoeblein&layout=compact&theme=dracula)
 
 ## 📬 Contato
-- 📧 E-mail: [matheus.eai@gmail.com]
+- 📧 E-mail: [matheus.eai@gmail.com](matheus.eai@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/MatheusLoeblein](https://www.linkedin.com/in/matheus-loeblein-761a73104/)
-- 🌐 Portfólio: [matheusloeblein.com.br]
+- 🌐 Portfólio: [matheusloeblein.com.br](https://matheusloeblein.com.br)
